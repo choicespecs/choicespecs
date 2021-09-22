@@ -8,4 +8,4 @@ Recent Projects:
 
 Future Projects:
 * Student & Tutor Dashboard - Development Video & Front-End | React, NodeJS
-* City & Activity Web Application
+* City & Activity Web Application | Static HTML, CSS, Javascript, SQL
