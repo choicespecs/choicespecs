@@ -4,7 +4,7 @@ Current aspiring full stack developer and software engineer. Looking to grow and
 
 Recent Projects:
 * [Student & Tutor Dashboard - Preliminary Design Video](https://youtu.be/XUDrSpBgjB0 "Student & Tutor Dashboard - Preliminary Design Video title") | Youtube, Figma
-* [Choice Specs Portfolio Website](https://www.choicespecs.com/ "Choice Specs Portfolio Website title")
+* [Choice Specs Portfolio Website](https://www.choicespecs.com/ "Choice Specs Portfolio Website title") | HTML, CSS, Javascript
 
 Future Projects:
 * Student & Tutor Dashboard - Development Video & Front-End | React, NodeJS
