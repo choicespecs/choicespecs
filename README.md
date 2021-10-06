@@ -9,3 +9,7 @@ Recent Projects:
 Future Projects:
 * Student & Tutor Dashboard - Development Video & Front-End | React, NodeJS
 * City & Activity Web Application | Static HTML, CSS, Javascript, SQL
+
+Currently Working On
+* [City & Activity Web Application](https://christophermlee2.github.io/cityactivitytracker/ "City & Activity Web Application title") | Static HTML, CSS, Javascript, SQL
+* [Postern Coffee Web Site](https://christophermlee2.github.io/posternCoffeeSite/ "Postern Coffee Web Site") | Static HTML, CSS
