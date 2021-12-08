@@ -6,7 +6,7 @@ Current Projects:
 No Current Projects
 
 Recent Completed Projects:
-* [City / Activity Tracker]("https://github.com/christophermlee2/cityActivityTracker") | HTML, CSS, JS, PHP, MySQL
+* [City / Activity Tracker](City / Activity Tracker "https://github.com/christophermlee2/cityActivityTracker") | HTML, CSS, JS, PHP, MySQL
 
 Future Projects:
 No Future Projects Currently
