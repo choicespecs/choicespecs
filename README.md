@@ -9,5 +9,6 @@ Recent Completed Projects:
 * [City / Activity Tracker](https://github.com/christophermlee2/cityActivityTracker) | HTML, CSS, JS, PHP, MySQL
 
 Future Projects:
-* More Videos on my Youtube Channel + Instagram content
+* [My Personal Website / Portfolio](https://github.com/christophermlee2/choicespecssite) | Updating from HTML CSS to React + SQL
+* More Videos on my Youtube Channel 
 
