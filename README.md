@@ -4,6 +4,7 @@ Current aspiring full stack developer and software engineer. Looking to grow and
 
 Current Projects:
 * [Typescript & Design Patterns](https://github.com/christophermlee2/TypescriptDesignPatterns) | TS, JS, HTML, CSS, YT
+* Attemping to learn Angular...
 
 Recent Completed Projects:
 * [City / Activity Tracker](https://github.com/christophermlee2/cityActivityTracker) | HTML, CSS, JS, PHP, MySQL
