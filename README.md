@@ -7,7 +7,7 @@ Current Projects:
 * Attemping to learn Angular...
 
 Recent Completed Projects:
-* [My Personal Website / Portfolio](https://www.choicespecs.com) | 
+* [My Personal Website / Portfolio](https://www.choicespecs.com) | HTML / CSS to React / Typescript
 * [City / Activity Tracker](https://github.com/christophermlee2/cityActivityTracker) | HTML, CSS, JS, PHP, MySQL
 
 Future Projects:
