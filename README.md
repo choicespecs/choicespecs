@@ -13,5 +13,6 @@ Recent Completed Projects:
 
 
 Future Projects:
-* More Videos on my Youtube Channel 
+* More Videos on my Youtube Channel
+* Secret Project with a few friends
 
