@@ -14,5 +14,6 @@ Recent Completed Projects:
 
 Future Projects:
 * More Videos on my Youtube Channel
+* Update README's for Typescript & Design Patterns
 * Project with a few friends
 
