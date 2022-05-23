@@ -9,7 +9,7 @@ Current Projects:
 * Attempting to learn Vue...
 
 Recent Completed Projects:
-* [Typescript & Design Patterns](https://github.com/christophermlee2/TypescriptDesignPatterns) | Updated with Factory Method
+* [Typescript & Design Patterns](https://github.com/christophermlee2/TypescriptDesignPatterns) | Updated with NEW Abstract Factory Method
 * [My Personal Website / Portfolio](https://www.choicespecs.com) | HTML / CSS to React / Typescript
 * [City / Activity Tracker](https://github.com/christophermlee2/cityActivityTracker) | HTML, CSS, JS, PHP, MySQL
 
