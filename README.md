@@ -4,9 +4,7 @@ Current aspiring full stack developer and software engineer. Looking to grow and
 
 Current Projects:
 * Working on Astro on Porfolio v3
-* Attempting to learn Angular
-* Attempting to learn gapi & it's documentation...
-* Attempting to learn Vue...
+* Working on AWS Solutions Architect Certification
 
 Recent Completed Projects:
 * [Typescript & Design Patterns](https://github.com/christophermlee2/TypescriptDesignPatterns) | Updated with NEW Abstract Factory Method
