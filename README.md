@@ -7,7 +7,7 @@ Current Projects:
 * Working on AWS Solutions Architect Certification
 
 Recent Completed Projects:
-* [Typescript & Design Patterns](https://github.com/christophermlee2/TypescriptDesignPatterns) | Updated with NEW Abstract Factory Method
+* [Typescript & Design Patterns](https://github.com/christophermlee2/TypescriptDesignPatterns) | Updated with NEW Command Pattern
 * [My Personal Website / Portfolio](https://www.choicespecs.com) | HTML / CSS to React / Typescript
 * [City / Activity Tracker](https://github.com/christophermlee2/cityActivityTracker) | HTML, CSS, JS, PHP, MySQL
 
