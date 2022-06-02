@@ -5,7 +5,7 @@ Current aspiring full stack developer and software engineer. Looking to grow and
 Current Projects:
 * Working on AWS Solutions Architect Certification
 * Studying OS
-* 
+
 Recent Completed Projects:
 * [My Personal Website / Portfolio](https://www.choicespecs.com) | Updated to Astro (SSR) + Bonus
 * [Typescript & Design Patterns](https://github.com/christophermlee2/TypescriptDesignPatterns) | Updated with NEW Command Pattern
