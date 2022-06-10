@@ -4,7 +4,7 @@ Full stack developer and software engineer. Looking to grow and improve from oth
 
 Current Projects:
 * Working on AWS Solutions Architect Certification
-* Studying OS
+* Studying OS relearning C all over again....
 
 Recent Completed Projects:
 * [My Personal Website / Portfolio](https://www.choicespecs.com) | Updated to Astro (SSR) + Bonus
