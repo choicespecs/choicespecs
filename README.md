@@ -12,6 +12,5 @@ Recent Completed Projects:
 
 Future Projects:
 * More Videos on my Youtube Channel
-* v3 of Website using JAMstack
 
 
