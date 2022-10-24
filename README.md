@@ -5,7 +5,7 @@ Back end developer and software engineer. Looking to grow and improve from other
 Current Projects:
 * Enrolled in GaTech OMSCS Program - Dropped GIOS :( will be taking different path in the future
 * Working on AWS Solutions Architect Certification
-* Studying OS relearning C all over again....
+* Interested now in Cybersecurity working now on TryHackMe!
 
 Recent Completed Projects:
 * [My Personal Website / Portfolio](https://www.choicespecs.com) | Updated to Astro (SSR) + Bonus
