@@ -8,8 +8,7 @@ Current Projects:
 * Interested now in Cybersecurity working now on TryHackMe!
 
 Recent Completed Projects:
-* [My Personal Website / Portfolio](https://www.choicespecs.com) | Updated to Astro (SSR) + Bonus
-* [Typescript & Design Patterns](https://github.com/christophermlee2/TypescriptDesignPatterns) | Updated with NEW Facade Pattern
+* [Typescript & Design Patterns](https://github.com/christophermlee2/TypescriptDesignPatterns) | Updated with NEW Template Pattern
 
 Future Projects:
 * More Videos on my Youtube Channel
