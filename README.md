@@ -5,6 +5,7 @@ Back end developer and software engineer. Looking to grow and improve from other
 Current Projects:
 * Interested now in Cybersecurity working now on TryHackMe!
 * Learning x86 Assembly
+* Working on next AWS Certificate | AWS Associate Developer
 
 Recent Completed Projects:
 * [Recieved my AWS Solutions Architect Certificate](https://www.credly.com/badges/3f37536b-8495-4ddb-91f4-f83cd9f4e381/public_url)
