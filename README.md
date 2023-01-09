@@ -4,7 +4,7 @@ Back end developer and software engineer. Looking to grow and improve from other
 
 Current Projects:
 * Interested now in Cybersecurity working now on TryHackMe!
-* Learning x86 Assembly
+* Learning x86 Assembly, Ansible, Kubernetes
 * Working on next AWS Certificate | AWS Associate Developer
 
 Recent Completed Projects:
