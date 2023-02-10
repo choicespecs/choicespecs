@@ -10,6 +10,7 @@ Current Projects:
 
 Recent Completed Projects:
 * [Recieved my AWS Solutions Architect Certificate](https://www.credly.com/badges/3f37536b-8495-4ddb-91f4-f83cd9f4e381/public_url)
+* [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | Iterator Pattern
 
 Future Projects:
 * More Videos on my Youtube Channel
