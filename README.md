@@ -14,7 +14,7 @@ Recent Completed Projects:
 
 Future Projects:
 * More Videos on my Youtube Channel
-* CRUD Survey | Question Management System 
+* Hardware, Arduinos, or Raspberry Pi
 * CTF, Cybersecurity content
 
 
