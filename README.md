@@ -4,7 +4,7 @@ Back end developer and software engineer. Looking to grow and improve from other
 
 Current Projects:
 * Learning Hardware, Arduinos
-* OMSCS Student | Currently in CS6035 Intro to Info Security
+* OMSCS Student
 * Reading Practical Malware Analysis
 * Working on next AWS Certificate | AWS Associate Developer
 
