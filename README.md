@@ -4,11 +4,11 @@ Full stack developer looking to grow and improve from others within the field of
 
 Current Projects:
 * OMSCS Student
-* Reading Practical Malware Analysis
+* Reading Alice and Bob learn Application Security
 * Working on next AWS Certificate | AWS Associate Developer
 
 Recent Completed Projects:
-* [Recieved my AWS Solutions Architect Certificate](https://www.credly.com/badges/3f37536b-8495-4ddb-91f4-f83cd9f4e381/public_url)
+* Finished Practical Malware Analysis
 * [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | Composite Pattern
 
 Future Projects:
