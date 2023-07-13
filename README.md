@@ -4,11 +4,10 @@ Full stack developer looking to grow and improve from others within the field of
 
 Current Projects:
 * OMSCS Student
-* Reading Alice and Bob learn Application Security
 * Working on next AWS Certificate | AWS Associate Developer
 
 Recent Completed Projects:
-* Finished Practical Malware Analysis
+* Finished Alice and Bob Learn Application Security
 * [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | Composite Pattern
 
 Future Projects:
