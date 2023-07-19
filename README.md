@@ -4,7 +4,6 @@ Full stack developer looking to grow and improve from others within the field of
 
 Current Projects:
 * OMSCS Student
-* Working on next AWS Certificate | AWS Associate Developer
 
 Recent Completed Projects:
 * Finished Alice and Bob Learn Application Security
