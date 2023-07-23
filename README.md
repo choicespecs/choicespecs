@@ -4,9 +4,9 @@ Full stack developer looking to grow and improve from others within the field of
 
 Current Projects:
 * OMSCS Student
+* Reading Designing Data Intensive Applications.
 
 Recent Completed Projects:
-* Finished Alice and Bob Learn Application Security
 * [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | State Pattern
 
 Future Projects:
