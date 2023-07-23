@@ -7,7 +7,7 @@ Current Projects:
 
 Recent Completed Projects:
 * Finished Alice and Bob Learn Application Security
-* [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | Composite Pattern
+* [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | State Pattern
 
 Future Projects:
 * More Videos on my Youtube Channel
