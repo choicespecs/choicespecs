@@ -5,6 +5,7 @@ Full stack developer looking to grow and improve from others within the field of
 Current Projects:
 * OMSCS Student
 * Reading Designing Data Intensive Applications.
+* Refactoring Typescript Design Pattern including revising git commit, branches, version etc.
 
 Recent Completed Projects:
 * [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | State Pattern
