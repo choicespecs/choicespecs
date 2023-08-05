@@ -8,7 +8,7 @@ Current Projects:
 * Refactoring Typescript Design Pattern including revising git commit, branches, version etc.
 
 Recent Completed Projects:
-* [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | State Pattern
+* [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | Proxy Pattern
 
 Future Projects:
 * More Videos on my Youtube Channel
