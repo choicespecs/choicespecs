@@ -8,6 +8,7 @@ Current Projects:
 * Refactoring Typescript Design Pattern including revising git commit, branches, version etc.
 
 Recent Completed Projects:
+* [Designing Data Intensive Applications](https://github.com/choicespecs/ddia-notes) | Log Example
 * [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | Proxy Pattern
 
 Future Projects:
