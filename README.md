@@ -9,7 +9,7 @@ Current Projects:
 
 Recent Completed Projects:
 * [Designing Data Intensive Applications](https://github.com/choicespecs/ddia-notes) | SSTable + LSMTree Example
-* [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | Proxy Pattern
+* [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | Builder Pattern
 
 Future Projects:
 * More Videos on my Youtube Channel
