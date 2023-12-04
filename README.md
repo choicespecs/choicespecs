@@ -9,7 +9,7 @@ Current Projects:
 * Refactoring Typescript Design Pattern including revising git commit, branches, version etc.
 
 Recent Completed Projects:
-* [Advent of Code 2023](https://github.com/choicespecs/advent-of-code-2023/tree/main) | Day 3Advent of Code 2023
+* [Advent of Code 2023](https://github.com/choicespecs/advent-of-code-2023/tree/main) | Day 3 Advent of Code 2023
 * [Designing Data Intensive Applications](https://github.com/choicespecs/ddia-notes) | SSTable + LSMTree Example
 * [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | Builder Pattern
 
