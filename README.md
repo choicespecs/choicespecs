@@ -7,9 +7,10 @@ Current Projects:
 * OMSCS Student
 * Reading Designing Data Intensive Applications.
 * Refactoring Typescript Design Pattern including revising git commit, branches, version etc.
+* Learning Swift
 
 Recent Completed Projects:
-* [Advent of Code 2023](https://github.com/choicespecs/advent-of-code-2023/tree/main) | Day 3 Advent of Code 2023
+* [Advent of Code 2023](https://github.com/choicespecs/advent-of-code-2023/tree/main) | Day 5 Advent of Code 2023
 * [Designing Data Intensive Applications](https://github.com/choicespecs/ddia-notes) | SSTable + LSMTree Example
 * [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | Builder Pattern
 
