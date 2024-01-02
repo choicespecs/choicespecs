@@ -4,8 +4,6 @@ Full stack developer looking to grow and improve from others within the field of
 
 Current Projects:
 * OMSCS Student
-* Reading Designing Data Intensive Applications.
-* Refactoring Typescript Design Pattern including revising git commit, branches, version etc.
 * Learning Swift
 
 Recent Completed Projects:
