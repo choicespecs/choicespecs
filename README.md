@@ -7,9 +7,9 @@ Current Projects:
 * Learning Swift
 
 Recent Completed Projects:
+* [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | Prototype Pattern
 * [Advent of Code 2023](https://github.com/choicespecs/advent-of-code-2023/tree/main) | Day 6 Advent of Code 2023
 * [Designing Data Intensive Applications](https://github.com/choicespecs/ddia-notes) | SSTable + LSMTree Example
-* [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | Builder Pattern
 
 Future Projects:
 * More Videos on my Youtube Channel
