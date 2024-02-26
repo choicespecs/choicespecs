@@ -13,7 +13,6 @@ Recent Completed Projects:
 
 Future Projects:
 * More Videos on my Youtube Channel
-* Hardware, Arduinos, or Raspberry Pi
-* CTF, Cybersecurity content
+* Swift Development
 
 
