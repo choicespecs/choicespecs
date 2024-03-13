@@ -5,6 +5,7 @@ Full stack developer looking to grow and improve from others within the field of
 Current Projects:
 * OMSCS Student
 * Learning Swift
+* TypescriptDesignPattern - Bridge Pattern
 
 Recent Completed Projects:
 * [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | Prototype Pattern
