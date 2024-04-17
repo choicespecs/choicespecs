@@ -4,11 +4,9 @@ Full stack developer looking to grow and improve from others within the field of
 
 Current Projects:
 * OMSCS Student
-* Learning Swift
-* TypescriptDesignPattern - Bridge Pattern
 
 Recent Completed Projects:
-* [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | Prototype Pattern
+* [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | Bridge Pattern
 * [Advent of Code 2023](https://github.com/choicespecs/advent-of-code-2023/tree/main) | Day 6 Advent of Code 2023
 * [Designing Data Intensive Applications](https://github.com/choicespecs/ddia-notes) | SSTable + LSMTree Example
 
