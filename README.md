@@ -10,6 +10,4 @@ Recent Completed Projects:
 
 Future Projects:
 * More Videos on my Youtube Channel
-* Swift Development
-
 
