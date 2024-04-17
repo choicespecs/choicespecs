@@ -7,8 +7,6 @@ Current Projects:
 
 Recent Completed Projects:
 * [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | Bridge Pattern
-* [Advent of Code 2023](https://github.com/choicespecs/advent-of-code-2023/tree/main) | Day 6 Advent of Code 2023
-* [Designing Data Intensive Applications](https://github.com/choicespecs/ddia-notes) | SSTable + LSMTree Example
 
 Future Projects:
 * More Videos on my Youtube Channel
