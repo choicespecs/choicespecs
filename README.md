@@ -6,7 +6,7 @@ Current Projects:
 * OMSCS Student
 
 Recent Completed Projects:
-* [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | Bridge Pattern
+* [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | Flyweight Pattern
 
 Future Projects:
 * More Videos on my Youtube Channel
