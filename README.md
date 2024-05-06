@@ -6,7 +6,7 @@ Current Projects:
 * OMSCS Student
 
 Recent Completed Projects:
-* [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | Chain of Responsibility Pattern
+* [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | Memento Pattern
 
 Future Projects:
 * More Videos on my Youtube Channel
