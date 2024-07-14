@@ -5,6 +5,7 @@ Full stack developer looking to grow and improve from others within the field of
 Current Projects:
 * OMSCS Student Summer Course HCI
 * Refactoring TypeScript Design Patterns using webpack
+* Studying for GCP Associate Cloud Engineer certification.
 
 Recent Completed Projects:
 * [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | Visitor Pattern (Finished Patterns)
