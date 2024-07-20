@@ -8,7 +8,7 @@ Current Projects:
 * Studying for GCP Associate Cloud Engineer certification.
 
 Recent Completed Projects:
-* [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | Visitor Pattern (Finished Patterns)
+* [Updated TypeScript Design Patterns](https://github.com/choicespecs/TypescriptDesignPatterns) | Refactored code
 
 Future Projects:
 * More Videos on my Youtube Channel
