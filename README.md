@@ -4,10 +4,9 @@ Full stack developer looking to grow and improve from others within the field of
 
 Current Projects:
 * Working on sample ecommerce order project (working in golang, just learning
-* LAST COURSE IN OMSCS Digital Marketing
 
 Recent Completed Projects:
-* OMSCS Game AI / Intro to Cognitive Science
+* Finished OMSCS Finally Graduated! Masters Program!
 
 Future Projects:
 * Small sample ecommerce order project to learn golang, docker, and just creating sample full stack application.
