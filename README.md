@@ -9,4 +9,5 @@ Recent Completed Projects:
 * Finished OMSCS Finally Graduated! Masters Program!
 
 Future Projects:
-* Small sample ecommerce order project to learn golang, docker, and just creating sample full stack application.
+* Finally finishing Designing Data Intensive Applications
+* Creating e-commerce microservice sample application
