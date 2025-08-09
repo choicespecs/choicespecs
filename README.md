@@ -4,6 +4,7 @@ Full stack developer looking to grow and improve from others within the field of
 
 Current Projects:
 * Creating e-commerce microservice sample application
+* Almost finished with User Service Microservice
 
 Recent Completed Projects:
 * Finished OMSCS Finally Graduated! Masters Program!
