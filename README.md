@@ -10,4 +10,4 @@ Recent Completed Projects:
 * Finished OMSCS Finally Graduated! Masters Program!
 
 Future Projects:
-* Finally finishing Designing Data Intensive Applications
+* Designing Data Intensive Applications
