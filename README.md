@@ -10,7 +10,6 @@ Recent Completed Projects:
   
 Future Projects:
 * Designing Data Intensive Applications
-* Creating e-commerce microservice sample application
 * Leetcode
 * Update my website
 
