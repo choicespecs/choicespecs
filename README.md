@@ -6,8 +6,8 @@ Current Projects:
 * Studying Kubernetes (Possibly CKA Certificate)
 
 Recent Completed Projects:
-* JSON Toolbox with diff checker and analyzer
-
+* Finished JSON Toolbox https://choicespecs.github.io/json-toolbox/
+  
 Future Projects:
 * Designing Data Intensive Applications
 * Creating e-commerce microservice sample application
