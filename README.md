@@ -4,6 +4,7 @@ Full stack developer looking to grow and improve from others within the field of
 
 Current Projects:
 * Studying Kubernetes (Possibly CKA Certificate)
+* Learning scratch
 
 Recent Completed Projects:
 * Finished JSON Toolbox https://choicespecs.github.io/json-toolbox/
