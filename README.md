@@ -9,6 +9,7 @@ Current Projects:
 
 Recent Completed Projects:
 * Finished JSON Toolbox https://choicespecs.github.io/json-toolbox/
+* Finished just saga orchestrator project https://github.com/choicespecs/java-order-processing-system
   
 Future Projects:
 * Designing Data Intensive Applications
