@@ -4,8 +4,6 @@ Full stack developer looking to grow and improve from others within the field of
 
 Current Projects:
 * Studying Kubernetes (Possibly CKA Certificate)
-* Learning scratch
-* Revisiting Leetcode in Java
 
 Recent Completed Projects:
 * Finished JSON Toolbox https://choicespecs.github.io/json-toolbox/
@@ -13,6 +11,6 @@ Recent Completed Projects:
   
 Future Projects:
 * Designing Data Intensive Applications
-* Leetcode
 * Update my website
+* Sample applications covering different design concepts, software design, architecture.
 
