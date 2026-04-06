@@ -6,8 +6,7 @@ Current Projects:
 * Studying Kubernetes (Possibly CKA Certificate)
 
 Recent Completed Projects:
-* Finished JSON Toolbox https://choicespecs.github.io/json-toolbox/
-* Finished just saga orchestrator project https://github.com/choicespecs/java-order-processing-system
+* Constantly working on projects will create new readme for more updates.
   
 Future Projects:
 * Designing Data Intensive Applications
