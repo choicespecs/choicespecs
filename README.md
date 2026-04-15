@@ -6,7 +6,7 @@ Current Projects:
 * Studying Kubernetes (Possibly CKA Certificate)
 
 Recent Completed Projects:
-* Constantly working on projects will create new readme for more updates.
+* Updated my TypescriptDesignPattern repo finally have a github page for it https://choicespecs.github.io/TypescriptDesignPatterns/
   
 Future Projects:
 * Designing Data Intensive Applications
